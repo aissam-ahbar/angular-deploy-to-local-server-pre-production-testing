@@ -17,4 +17,5 @@ ng build
 
 ```ts
 npm install lite-server --save-dev
+lite-server --baseDir="dist/project-name"
 ```
